@@ -6,6 +6,8 @@ The release toolkit is a series of small, composable tools that interact togethe
 
 The toolkit provides a series of commands, also available as GitHub Actions, that can compose with your existing pipelines to fully automate releases with meaningful, user-facing changelogs.
 
+change main
+
 The way in which the toolkit works is the following:
 
 1. Maintainers add human-readable changelog entries to the `## Unreleased` section in a [`CHANGELOG.md`](https://keepachangelog.com/en/1.0.0/) file.
